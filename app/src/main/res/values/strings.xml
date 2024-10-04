@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChatGeminiApp</string>
+    <string name="prompt_template">Take a look at images, and answer the question: %1$s</string>
+</resources>
