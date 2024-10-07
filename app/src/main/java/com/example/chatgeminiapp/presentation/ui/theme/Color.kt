@@ -1,4 +1,4 @@
-package com.example.chatgeminiapp.ui.theme
+package com.example.chatgeminiapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
